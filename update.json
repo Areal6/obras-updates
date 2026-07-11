@@ -1,0 +1,15 @@
+{
+  "version": "1.5.1",
+  "title": "Novo menu lateral do Obras",
+  "notes": [
+    "Menu lateral escondido até passar o rato.",
+    "Ícones maiores e navegação mais limpa.",
+    "Logótipo removido do menu.",
+    "Zona de backup reduzida a um único botão."
+  ],
+  "testMode": false,
+  "mandatory": false,
+  "publishedAt": "2026-07-11T10:00:00+01:00",
+  "downloadUrl": "https://raw.githubusercontent.com/Areal6/obras-updates/main/Obras-update.zip",
+  "sha256": "726C15A28211AA51460BCF0D65C627907CED3E61D541BA39A44F7809062003AD"
+}
