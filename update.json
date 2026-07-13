@@ -1,16 +1,14 @@
 {
-  "version": "1.5.2",
-  "title": "Melhorias de criação e planeamento",
+  "version": "1.5.3",
+  "title": "Texto legível durante a edição",
   "notes": [
-    "Novo formulário funcional para criar imóveis.",
-    "Prazo previsto do planeamento corrigido para branco.",
-    "Seleção das tabelas em azul escuro, sem barras brancas.",
-    "Menu fechado mais largo, mantendo os ícones visíveis.",
-    "Limpeza segura de imóveis vazios criados pelo botão antigo."
+    "As linhas selecionadas deixam de ficar pretas.",
+    "As células em edição usam fundo azul-escuro e texto branco.",
+    "O cursor e a seleção de texto ficam claramente visíveis em todas as tabelas."
   ],
   "testMode": false,
   "mandatory": false,
-  "publishedAt": "2026-07-11T17:15:00+01:00",
+  "publishedAt": "2026-07-13T12:00:00+01:00",
   "downloadUrl": "https://raw.githubusercontent.com/Areal6/obras-updates/main/Obras-update.zip",
-  "sha256": "7CA49030668D801A5DEBAE5D9B89E589FEE9CD1FF0B56702A4910A84B73AFA5B"
+  "sha256": "06C556979B05F37F270073D1E944D7396D12BCC70F5B7B6851474354EC04B892"
 }
